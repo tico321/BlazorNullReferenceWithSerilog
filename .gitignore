@@ -5,11 +5,15 @@
 obj/
 bin/
 
+/obj/*
+/bin/*
+
 # IDE settings
 .vscode/
 .ionide/
 .idea/
 .vs/
+/.vs/*
 
 # Mac files
 *DS_Store
